@@ -1,0 +1,454 @@
+{
+  "cricket_mcqs": [
+    {
+      "question": "Who was the first batsman to score a double century in ODI cricket?",
+      "options": ["Sachin Tendulkar", "Rohit Sharma", "Virender Sehwag", "Chris Gayle"],
+      "answer": "Sachin Tendulkar"
+    },
+    {
+      "question": "Which bowler has the best bowling figures in an ODI innings?",
+      "options": ["Glenn McGrath", "Chaminda Vaas", "Shahid Afridi", "Muttiah Muralitharan"],
+      "answer": "Chaminda Vaas"
+    },
+    {
+      "question": "What is the highest individual score in Test cricket?",
+      "options": ["375 by Brian Lara", "400* by Brian Lara", "380 by Matthew Hayden", "404* by Don Bradman"],
+      "answer": "400* by Brian Lara"
+    },
+    {
+      "question": "Which team won the first ever T20 World Cup in 2007?",
+      "options": ["Australia", "India", "Pakistan", "South Africa"],
+      "answer": "India"
+    },
+    {
+      "question": "Who has taken the most wickets in Test cricket history?",
+      "options": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "James Anderson"],
+      "answer": "Muttiah Muralitharan"
+    },
+    {
+      "question": "What is the highest team total in Test cricket?",
+      "options": ["952/6 by Sri Lanka", "903/7 by England", "850/6 by West Indies", "804/4 by India"],
+      "answer": "952/6 by Sri Lanka"
+    },
+    {
+      "question": "Which bowler has the best economy rate in a completed ODI innings (minimum 10 overs)?",
+      "options": ["Joel Garner", "Glenn McGrath", "Bishan Bedi", "Michael Holding"],
+      "answer": "Bishan Bedi"
+    },
+    {
+      "question": "Who was the first player to be dismissed for 99 in Test cricket?",
+      "options": ["Don Bradman", "Geoff Boycott", "Clem Hill", "Steve Waugh"],
+      "answer": "Clem Hill"
+    },
+    {
+      "question": "Which country has won the most ICC Cricket World Cups?",
+      "options": ["Australia", "West Indies", "India", "England"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who has scored the fastest century in Test cricket (by balls faced)?",
+      "options": ["Brendon McCullum", "Viv Richards", "Adam Gilchrist", "Misbah-ul-Haq"],
+      "answer": "Brendon McCullum"
+    },
+    {
+      "question": "Which player has won the most Man of the Match awards in Test cricket?",
+      "options": ["Jacques Kallis", "Muttiah Muralitharan", "Shane Warne", "Sachin Tendulkar"],
+      "answer": "Jacques Kallis"
+    },
+    {
+      "question": "What is the lowest team total in Test cricket history?",
+      "options": ["26 by New Zealand", "30 by South Africa", "36 by Australia", "42 by England"],
+      "answer": "26 by New Zealand"
+    },
+    {
+      "question": "Who was the first bowler to take 500 Test wickets?",
+      "options": ["Courtney Walsh", "Shane Warne", "Muttiah Muralitharan", "Glenn McGrath"],
+      "answer": "Courtney Walsh"
+    },
+    {
+      "question": "Which batsman has the highest career batting average in Test cricket (minimum 20 innings)?",
+      "options": ["Don Bradman", "Graeme Pollock", "George Headley", "Herbert Sutcliffe"],
+      "answer": "Don Bradman"
+    },
+    {
+      "question": "What is the highest successful run chase in Test cricket history?",
+      "options": ["418 by West Indies", "404 by Australia", "387 by India", "369 by Sri Lanka"],
+      "answer": "418 by West Indies"
+    },
+    {
+      "question": "Who was the first batsman to be given out by third umpire decision in international cricket?",
+      "options": ["Sachin Tendulkar", "Brian Lara", "Allan Lamb", "Jonty Rhodes"],
+      "answer": "Sachin Tendulkar"
+    },
+    {
+      "question": "Which team has won the most Test matches without ever losing a series?",
+      "options": ["Australia", "West Indies", "South Africa", "England"],
+      "answer": "South Africa"
+    },
+    {
+      "question": "Who has the most stumpings in ODI cricket history?",
+      "options": ["Kumar Sangakkara", "MS Dhoni", "Romesh Kaluwitharana", "Moin Khan"],
+      "answer": "MS Dhoni"
+    },
+    {
+      "question": "Which bowler has bowled the most maiden overs in Test cricket?",
+      "options": ["Glenn McGrath", "Courtney Walsh", "Wasim Akram", "Shaun Pollock"],
+      "answer": "Courtney Walsh"
+    },
+    {
+      "question": "What is the longest Test match ever played (by duration)?",
+      "options": ["9 days (England vs South Africa 1939)", "8 days (Australia vs England 1929)", "7 days (West Indies vs England 1968)", "6 days (India vs Pakistan 2005)"],
+      "answer": "9 days (England vs South Africa 1939)"
+    },
+    {
+      "question": "Who was the first bowler to take a hat-trick in World Cup cricket?",
+      "options": ["Chetan Sharma", "Wasim Akram", "Brett Lee", "Lasith Malinga"],
+      "answer": "Chetan Sharma"
+    },
+    {
+      "question": "Which batsman has scored the most runs in a single World Cup tournament?",
+      "options": ["Sachin Tendulkar", "Matthew Hayden", "Rohit Sharma", "Martin Guptill"],
+      "answer": "Sachin Tendulkar"
+    },
+    {
+      "question": "What is the highest partnership for any wicket in Test cricket?",
+      "options": ["467 by Sri Lanka", "415 by India", "451 by West Indies", "402 by England"],
+      "answer": "467 by Sri Lanka"
+    },
+    {
+      "question": "Who was the first batsman to score centuries in both innings of a Test match three times?",
+      "options": ["Sunil Gavaskar", "Ricky Ponting", "Jacques Kallis", "Steve Smith"],
+      "answer": "Sunil Gavaskar"
+    },
+    {
+      "question": "Which team has the highest win percentage in Test cricket (minimum 100 matches)?",
+      "options": ["Australia", "South Africa", "England", "West Indies"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who has taken the most catches in Test cricket history (non-wicketkeeper)?",
+      "options": ["Rahul Dravid", "Jacques Kallis", "Ricky Ponting", "Mahela Jayawardene"],
+      "answer": "Rahul Dravid"
+    },
+    {
+      "question": "Which bowler has the best strike rate in Test cricket history (minimum 200 wickets)?",
+      "options": ["Dale Steyn", "Waqar Younis", "Malcolm Marshall", "Shane Bond"],
+      "answer": "Dale Steyn"
+    },
+    {
+      "question": "What is the highest score by a team in T20 international cricket?",
+      "options": ["278/3 by Afghanistan", "263/5 by Australia", "260/6 by Sri Lanka", "245/6 by West Indies"],
+      "answer": "278/3 by Afghanistan"
+    },
+    {
+      "question": "Who was the first player to score 10,000 runs in ODI cricket?",
+      "options": ["Sachin Tendulkar", "Viv Richards", "Allan Border", "Gordon Greenidge"],
+      "answer": "Sachin Tendulkar"
+    },
+    {
+      "question": "Which team has won the most consecutive ODI matches?",
+      "options": ["Australia", "South Africa", "West Indies", "India"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who has the most dismissals as wicketkeeper in Test cricket?",
+      "options": ["Mark Boucher", "Adam Gilchrist", "MS Dhoni", "Ian Healy"],
+      "answer": "Mark Boucher"
+    },
+    {
+      "question": "Which bowler has the most five-wicket hauls in Test cricket?",
+      "options": ["Muttiah Muralitharan", "Shane Warne", "Richard Hadlee", "Anil Kumble"],
+      "answer": "Muttiah Muralitharan"
+    },
+    {
+      "question": "What is the lowest team total in ODI cricket (full innings)?",
+      "options": ["35 by Zimbabwe", "36 by Canada", "43 by Pakistan", "54 by India"],
+      "answer": "35 by Zimbabwe"
+    },
+    {
+      "question": "Who was the first batsman to score centuries in five consecutive Test innings?",
+      "options": ["Don Bradman", "Mohammad Yousuf", "Jacques Kallis", "Kumar Sangakkara"],
+      "answer": "Mohammad Yousuf"
+    },
+    {
+      "question": "Which team has the longest unbeaten streak in Test cricket?",
+      "options": ["West Indies", "Australia", "England", "India"],
+      "answer": "West Indies"
+    },
+    {
+      "question": "Who has the highest individual score in T20 international cricket?",
+      "options": ["Aaron Finch", "Rohit Sharma", "Martin Guptill", "Chris Gayle"],
+      "answer": "Aaron Finch"
+    },
+    {
+      "question": "Which bowler has taken the most wickets in a single World Cup tournament?",
+      "options": ["Mitchell Starc", "Glenn McGrath", "Muttiah Muralitharan", "Shahid Afridi"],
+      "answer": "Mitchell Starc"
+    },
+    {
+      "question": "What is the highest partnership for any wicket in ODI cricket?",
+      "options": ["372 by India", "365* by West Indies", "331 by Sri Lanka", "318 by South Africa"],
+      "answer": "372 by India"
+    },
+    {
+      "question": "Who was the first bowler to take all 10 wickets in a Test innings?",
+      "options": ["Jim Laker", "Anil Kumble", "Shane Warne", "Muttiah Muralitharan"],
+      "answer": "Jim Laker"
+    },
+    {
+      "question": "Which batsman has faced the most balls in a single Test innings?",
+      "options": ["Hanif Mohammad", "Alastair Cook", "Gary Kirsten", "Len Hutton"],
+      "answer": "Hanif Mohammad"
+    },
+    {
+      "question": "What is the fastest century in terms of time taken in Test cricket?",
+      "options": ["Misbah-ul-Haq (56 minutes)", "Viv Richards (56 minutes)", "Brendon McCullum (54 balls)", "Adam Gilchrist (57 balls)"],
+      "answer": "Misbah-ul-Haq (56 minutes)"
+    },
+    {
+      "question": "Who has the most runs in a single Test series?",
+      "options": ["Don Bradman", "Sunil Gavaskar", "Brian Lara", "Wally Hammond"],
+      "answer": "Don Bradman"
+    },
+    {
+      "question": "Which team has the highest success rate in World Cup knockout matches?",
+      "options": ["Australia", "West Indies", "India", "England"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who was the first bowler to take 400 wickets in Test cricket?",
+      "options": ["Richard Hadlee", "Kapil Dev", "Ian Botham", "Imran Khan"],
+      "answer": "Richard Hadlee"
+    },
+    {
+      "question": "What is the highest score by a No. 11 batsman in Test cricket?",
+      "options": ["95 by Tino Best", "92 by Ashton Agar", "85 by Zaheer Khan", "80 by Wasim Bari"],
+      "answer": "95 by Tino Best"
+    },
+    {
+      "question": "Which bowler has the best bowling average in Test cricket (minimum 200 wickets)?",
+      "options": ["George Lohmann", "Sydney Barnes", "Muttiah Muralitharan", "Glenn McGrath"],
+      "answer": "George Lohmann"
+    },
+    {
+      "question": "Who has scored the most runs in a single calendar year in Test cricket?",
+      "options": ["Mohammad Yousuf", "Viv Richards", "Sachin Tendulkar", "Kumar Sangakkara"],
+      "answer": "Mohammad Yousuf"
+    },
+    {
+      "question": "What is the highest individual score in a losing cause in Test cricket?",
+      "options": ["334 by Mark Taylor", "365* by Gary Sobers", "400* by Brian Lara", "242* by Alastair Cook"],
+      "answer": "400* by Brian Lara"
+    },
+    {
+      "question": "Which team has the most consecutive Test wins?",
+      "options": ["Australia", "West Indies", "England", "South Africa"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who has the most Test runs without ever scoring a century?",
+      "options": ["Shane Warne", "Anil Kumble", "Courtney Walsh", "Daniel Vettori"],
+      "answer": "Shane Warne"
+    },
+    {
+      "question": "Which player has scored the most ducks in international cricket?",
+      "options": ["Sanath Jayasuriya", "Muttiah Muralitharan", "Shahid Afridi", "Courtney Walsh"],
+      "answer": "Muttiah Muralitharan"
+    },
+    {
+      "question": "Who was the first cricketer to score a century in all three formats of international cricket?",
+      "options": ["Chris Gayle", "Brendon McCullum", "Suresh Raina", "Mahela Jayawardene"],
+      "answer": "Suresh Raina"
+    },
+    {
+      "question": "Which team holds the record for the lowest total in T20 internationals?",
+      "options": ["Netherlands", "Turkey", "India", "West Indies"],
+      "answer": "Turkey"
+    },
+    {
+      "question": "Which bowler has delivered the most balls in Test cricket history?",
+      "options": ["James Anderson", "Muttiah Muralitharan", "Anil Kumble", "Shane Warne"],
+      "answer": "Muttiah Muralitharan"
+    },
+    {
+      "question": "Who was the first player to be timed out in international cricket?",
+      "options": ["Hemulal Yadav", "Andrew Jordaan", "Sunil Gavaskar", "Mohammad Kaif"],
+      "answer": "Andrew Jordaan"
+    },
+    {
+      "question": "Which team scored the most runs in a single over in ODI cricket?",
+      "options": ["South Africa", "India", "Zimbabwe", "Sri Lanka"],
+      "answer": "South Africa"
+    },
+    {
+      "question": "Which player has bowled the most no-balls in Test cricket history?",
+      "options": ["Waqar Younis", "Shaun Pollock", "Merv Hughes", "Muttiah Muralitharan"],
+      "answer": "Waqar Younis"
+    },
+    {
+      "question": "Who is the only cricketer to have captained in 100 or more Test matches?",
+      "options": ["Steve Waugh", "Ricky Ponting", "Graeme Smith", "MS Dhoni"],
+      "answer": "Graeme Smith"
+    },
+    {
+      "question": "Who was the first batsman to be dismissed by the DRS system in Test cricket?",
+      "options": ["Sachin Tendulkar", "Kevin Pietersen", "Tillakaratne Dilshan", "Virender Sehwag"],
+      "answer": "Kevin Pietersen"
+    },
+    {
+      "question": "What is the longest over ever bowled in international cricket?",
+      "options": ["11 balls", "14 balls", "17 balls", "21 balls"],
+      "answer": "17 balls"
+    },
+    {
+      "question": "Which bowler holds the record for most dot balls in IPL history?",
+      "options": ["Lasith Malinga", "Bhuvneshwar Kumar", "Sunil Narine", "Harbhajan Singh"],
+      "answer": "Harbhajan Singh"
+    },
+    {
+      "question": "Which cricketer has played the most matches without ever bowling a ball?",
+      "options": ["Michael Bevan", "Gary Kirsten", "Hashim Amla", "Jonathan Trott"],
+      "answer": "Hashim Amla"
+    },
+    {
+      "question": "Who is the only bowler to take a hat-trick in all three formats?",
+      "options": ["Lasith Malinga", "Brett Lee", "Wasim Akram", "Trent Boult"],
+      "answer": "Lasith Malinga"
+    },
+    {
+      "question": "Who scored a triple century and took 10 wickets in the same Test match?",
+      "options": ["No one", "Jacques Kallis", "Ben Stokes", "Ian Botham"],
+      "answer": "No one"
+    },
+    {
+      "question": "Which cricketer has the longest gap between two Test appearances?",
+      "options": ["Younis Ahmed", "Chris Rogers", "Mike Hussey", "Fawad Alam"],
+      "answer": "Younis Ahmed"
+    },
+    {
+      "question": "Who is the only cricketer to score a century and take 10 wickets in the same Test?",
+      "options": ["Ian Botham", "Shakib Al Hasan", "Ravichandran Ashwin", "Imran Khan"],
+      "answer": "Ian Botham"
+    },
+    {
+      "question": "Which player has the most international sixes as captain?",
+      "options": ["MS Dhoni", "Eoin Morgan", "Ricky Ponting", "Brendon McCullum"],
+      "answer": "MS Dhoni"
+    },
+    {
+      "question": "Which Test match had the most runs scored in a single match?",
+      "options": ["SL vs IND 1997", "WI vs ENG 1930", "AUS vs ENG 1948", "SA vs ENG 1939"],
+      "answer": "SL vs IND 1997"
+    },
+    {
+      "question": "Which bowler has the most wickets in day-night Tests?",
+      "options": ["Josh Hazlewood", "Mitchell Starc", "Pat Cummins", "James Anderson"],
+      "answer": "Mitchell Starc"
+    },
+    {
+      "question": "Who holds the record for most consecutive ODI centuries?",
+      "options": ["Kumar Sangakkara", "Rohit Sharma", "Virat Kohli", "AB de Villiers"],
+      "answer": "Kumar Sangakkara"
+    },
+    {
+      "question": "Which player has scored the most runs in World Test Championship history (2019–2023)?",
+      "options": ["Steve Smith", "Joe Root", "Marnus Labuschagne", "Babar Azam"],
+      "answer": "Joe Root"
+    },
+    {
+      "question": "Which bowler conceded the most runs in a single ODI match?",
+      "options": ["Mick Lewis", "Rashid Khan", "Martin Snedden", "Jason Holder"],
+      "answer": "Mick Lewis"
+    },
+    {
+      "question": "Which player has the most not outs in ODI history?",
+      "options": ["MS Dhoni", "Michael Bevan", "Shaun Pollock", "Steve Waugh"],
+      "answer": "MS Dhoni"
+    },
+    {
+      "question": "Which wicketkeeper has the most stumpings in a single World Cup?",
+      "options": ["MS Dhoni", "Kumar Sangakkara", "Adam Gilchrist", "Moin Khan"],
+      "answer": "MS Dhoni"
+    },
+    {
+      "question": "Who is the only batsman to score 3 double centuries in ODIs?",
+      "options": ["Rohit Sharma", "Virender Sehwag", "Martin Guptill", "Chris Gayle"],
+      "answer": "Rohit Sharma"
+    },
+    {
+      "question": "Which Indian cricketer has the highest individual T20I score?",
+      "options": ["Virat Kohli", "KL Rahul", "Shubman Gill", "Rohit Sharma"],
+      "answer": "Shubman Gill"
+    },
+    {
+      "question": "Which country won the first Women's T20 World Cup?",
+      "options": ["England", "Australia", "New Zealand", "India"],
+      "answer": "England"
+    },
+    {
+      "question": "Who is the youngest player to take a five-wicket haul in Test cricket?",
+      "options": ["Naseem Shah", "Mohammad Amir", "Pat Cummins", "Rashid Khan"],
+      "answer": "Naseem Shah"
+    },
+    {
+      "question": "Which Indian player took 6 wickets for 4 runs in an ODI?",
+      "options": ["Anil Kumble", "Stuart Binny", "Ashish Nehra", "Ajit Agarkar"],
+      "answer": "Stuart Binny"
+    },
+    {
+      "question": "Who was the first player to be sold in the first IPL auction?",
+      "options": ["MS Dhoni", "Rahul Dravid", "Shane Warne", "Sourav Ganguly"],
+      "answer": "MS Dhoni"
+    },
+    {
+      "question": "Who is the only batsman to score 4 hundreds in his first 5 Test matches?",
+      "options": ["Sourav Ganguly", "Sunil Gavaskar", "Mohammad Azharuddin", "Alastair Cook"],
+      "answer": "Mohammad Azharuddin"
+    },
+    {
+      "question": "Which bowler has the most wickets in ICC tournaments combined?",
+      "options": ["Lasith Malinga", "Muttiah Muralitharan", "Glenn McGrath", "Shahid Afridi"],
+      "answer": "Lasith Malinga"
+    },
+    {
+      "question": "Who has the highest strike rate in T20 internationals (min. 500 runs)?",
+      "options": ["Suryakumar Yadav", "Tim David", "Finn Allen", "Andre Russell"],
+      "answer": "Tim David"
+    },
+    {
+      "question": "Which team bowled 50 overs without conceding an extra in ODI?",
+      "options": ["South Africa", "New Zealand", "England", "India"],
+      "answer": "England"
+    },
+    {
+      "question": "Who scored 319 in a Test match and never played another?",
+      "options": ["Andy Sandham", "Garry Sobers", "Lawrence Rowe", "Andy Flower"],
+      "answer": "Andy Sandham"
+    },
+    {
+      "question": "Who holds the record for most T20 wickets in a calendar year?",
+      "options": ["Wanindu Hasaranga", "Tabraiz Shamsi", "Rashid Khan", "Josh Hazlewood"],
+      "answer": "Wanindu Hasaranga"
+    },
+    {
+      "question": "Who scored the fastest 150 in ODIs?",
+      "options": ["AB de Villiers", "Jos Buttler", "Glenn Maxwell", "Virender Sehwag"],
+      "answer": "AB de Villiers"
+    },
+    {
+      "question": "Which captain has the best win percentage in ODIs (min 100 matches)?",
+      "options": ["Ricky Ponting", "MS Dhoni", "Clive Lloyd", "Eoin Morgan"],
+      "answer": "Ricky Ponting"
+    },
+    {
+      "question": "Which batsman scored the most runs in his debut Test series?",
+      "options": ["Alastair Cook", "Sourav Ganguly", "RE Foster", "Graeme Smith"],
+      "answer": "RE Foster"
+    },
+    {
+      "question": "Who took the first ever wicket in T20I history?",
+      "options": ["Glenn McGrath", "Shaun Tait", "Dwayne Bravo", "Michael Kasprowicz"],
+      "answer": "Michael Kasprowicz"
+    }
+  ]
+}

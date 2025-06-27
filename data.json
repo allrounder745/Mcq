@@ -1,4 +1,6 @@
 {
+  "start_time": "2025-06-27T15:00:00Z",
+  "interval_seconds": 30,
   "cricket_mcqs": [
     {
       "question": "Who was the first batsman to score a double century in ODI cricket?",
